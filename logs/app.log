@@ -1,0 +1,8 @@
+[INFO ] 2023-06-30 11:42:46.655 [main] UserTests - +++++++++++ User is Creating ++++++++++
+[INFO ] 2023-06-30 11:42:50.645 [main] UserTests - +++++++++++ User was Created ++++++++++
+[INFO ] 2023-06-30 11:42:50.645 [main] UserTests - +++++++++++ Read Created user and started get method ++++++++++
+[INFO ] 2023-06-30 11:42:52.627 [main] UserTests - +++++++++++ Read Created user and correct user got created  ++++++++++
+[INFO ] 2023-06-30 11:42:52.627 [main] UserTests - +++++++++++ Updating the User ++++++++++
+[INFO ] 2023-06-30 11:42:55.542 [main] UserTests - +++++++++++ Updated the User ++++++++++
+[INFO ] 2023-06-30 11:42:55.542 [main] UserTests - +++++++++++ Deleting the User ++++++++++
+[INFO ] 2023-06-30 11:42:57.082 [main] UserTests - +++++++++++ Deleted the User ++++++++++
